@@ -140,8 +140,13 @@ I am an experienced Full-stack developer and Architect with more than 8 years of
 
 ### **TECHNICAL ARCHITECT**
 ### GRAZITTI INTERACTIVE
-
-Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
+- Analyze large systems and breaking them down into manageable units.
+- Understand business requirements to design scalable and secure systems.
+- Explore new technologies and handover proof of concepts to engineering teams.
+- Participate in pre-sales activities to demonstrate technical capabilities of system.
+- Collaborate with team to brainstorm and create new products and mentor junior and mid-level engineers.
+- Make informed decisions quickly and taking ownership of services and applications at scale.
+- Document and demonstrate solutions by developing documentation, flowcharts, code comments and clear code.
 
 ---
 
