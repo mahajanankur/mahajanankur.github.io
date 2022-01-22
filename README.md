@@ -34,4 +34,4 @@ Engineering degree in Electrical and Electronics from India's prestige college.
 ---
 
 ## Interests
-Apart from building softwares all the time :P, I love to explore new things and places.
+Apart from building softwares all the time :star_struck:, I love to explore new things and places.
