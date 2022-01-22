@@ -1,17 +1,17 @@
 title: Ankur Mahajan
 logo: "/ankur.jpeg?raw=true"
 description: >
- Technical Architect
-  <br><br>
-  <a href="mailto:ankur.mahajan@hotmail.com">Email me</a>
-  <br>
-  <a href="https://www.linkedin.com/in/ankur-mahajan-a5271415/">LinkedIn</a>
-  <p align="center">
-    <a href="https://linkedin.com/in/ankur-mahajan-a5271415" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ankur-mahajan-a5271415"
-            height="20" width="20" /></a>
-    <a href="https://stackoverflow.com/users/3932396/ankur-mahajan" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg"
-            alt="https://stackoverflow.com/users/3932396/ankur-mahajan" height="20" width="20" /></a>
+Technical Architect
+<br><br>
+<a href="mailto:ankur.mahajan@hotmail.com">Email me</a>
+<br>
+<a href="https://www.linkedin.com/in/ankur-mahajan-a5271415/">LinkedIn</a>
+<p align="center">
+    <a href="https://linkedin.com/in/ankur-mahajan-a5271415" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ankur-mahajan-a5271415" height="20" width="20" />
+    </a>
+    <a href="https://stackoverflow.com/users/3932396/ankur-mahajan" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/3932396/ankur-mahajan" height="20" width="20" />
+    </a>
 </p>
 theme: jekyll-theme-minimal
