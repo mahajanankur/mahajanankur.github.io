@@ -1,10 +1,11 @@
-title: Ankur Mahajan
-logo: "/ankur.jpeg?raw=true"
-description: >
-Technical Architect
-<br><br>
-<a href="mailto:ankur.mahajan@hotmail.com">Email me</a>
-<br>
-<a href="https://www.linkedin.com/in/ankur-mahajan-a5271415/">LinkedIn</a>
-
+title: Ankur Mahajan # your name (or website title) here
+logo: "/ankur.jpeg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Technical Architect
+  <br><br>
+  <a href="mailto:mahajanankur.nith@gmail.com">mahajanankur.nith@gmail.com </a>
+  <br>
+  <a href="https://www.linkedin.com/in/ankur-mahajan-a5271415/">LinkedIn Profile</a>
+  <br>
+  <a href="https://www.gihub.com/mahajanankur/">Gihub</a> 
 theme: jekyll-theme-minimal
