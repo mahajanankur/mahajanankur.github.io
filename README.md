@@ -1,6 +1,6 @@
 ## Portfolio
 
-I am an experienced Full-stack developer and Architect with more than 8 years of experience in software industry. I have excellent reputation for resolving problems, improving customer satisfaction and driving overall operational improvements. I am consistently saving costs while increasing profits.
+I am an experienced Full-stack developer and Architect with more than 10 years of experience in software industry. I have excellent reputation for resolving problems, improving customer satisfaction and driving overall operational improvements. I am consistently saving costs while increasing profits.
 
 ---
 
